@@ -3,6 +3,26 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Bring power back to the people.
+The few that hold power have corrupted this world in their image.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+We want to open a new future.
+State or market is the old frame.
+It is a deception.
+
+Future is in the past.
+Community is where people live.
+Land is where people stand.
+
+Stop poisoning nature.
+Stop destroying the people.
+
+All life needs to live in its perfection.
+Health, vitality, and spirituality.
+Restore natural healing and cultivations.
+
+People need to see the truth to act.
+People need to connect to be powerful.
+People need to return to land, to productivity.
+
+Awaken. Connect. Return.
