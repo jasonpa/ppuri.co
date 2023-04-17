@@ -1,5 +1,5 @@
 ---
-permalink: /ppuri-manifesto/
+permalink: /ppuri-manifesto-2022/
 title: "Ppuri Manifesto 2022"
 ---
 
