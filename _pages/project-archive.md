@@ -1,8 +1,8 @@
 ---
 title: Project
 layout: collection
-permalink: /project/
-collection: project
+permalink: /projects/
+collection: projects
 entries_layout: grid
 classes: wide
 ---
