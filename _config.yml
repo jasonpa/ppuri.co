@@ -56,6 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-polyglot
 
 author:
   name   : "Rei Yoon"
@@ -107,3 +108,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# 다국어지원
+languages: ["en", "ko"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
