@@ -111,6 +111,9 @@ tag_archive:
 
 # 다국어지원
 languages: ["en", "ko"]
+lang_vars: "en" #provides the liquid tag {{ site.active_lang }} to get the I18n language string the website was built for. Alternative names for active_lang can be configured via config.lang_vars.
 default_lang: "en"
+  #lang_form_path: true
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true
+langsep: "|"
